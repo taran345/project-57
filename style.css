@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    border-radius: 20%;
+
+}
+#welcome{
+background:linear-gradient(red 30%, blue 70%);
+position:absolute;
+display:table;
+width:100%;
+font-family: 'arial narrow';
+margin-top: 20px;
+}
+h2{
+    color:green;
+    font-family:'arial';
+}
+p{
+    color:aquamarine;
+    font-family:'arial';
+    }
+    .menu{
+       position:fixed;
+       color:blue;
+       list-style: none;
+       top:0px;
+       margin-top:0px;
+       z-index:10;
+       cursor:pointer;
+       width:100%;
+       background-color: aquamarine;
+    }
+    .li{
+        padding:5px;
+       padding:9px;
+       padding:9px;
+       padding:5px;
+       display:inline;
+       font-size:16px;
+       font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    }
+    
+    #bio{
+padding-top: 400px;
+    }
+    #contacts iframe { 
+        width:100%;
+
+    }
+  
+
+    
